@@ -1,0 +1,15 @@
+14
+asd/1/Quick & Spicy Asian Pickles,Coriander-Herb Spice Rub/99/31-08-2021 17:04:37
+asd/2/Quick & Spicy Asian Pickles,Coriander-Herb Spice Rub,Red Pepper Sauce/161/30-08-2021 17:04:45
+asd/3/Cilantro-Tomato Salsa,Shrimp Sates with Spiced Pistachio Chutney/110/30-08-2021 17:06:39
+asd/4/Cilantro-Tomato Salsa,Shrimp Sates with Spiced Pistachio Chutney,Beef Stock/136/30-08-2021 17:06:45
+asd/5/The Original Three-Ingredient Rub ,"Endive ""Spoons"" with Lemon-Herb Goat Cheese ",Red Pepper Sauce /159/30-08-2021 21:57:19
+asd/6/Snapper Crudo with Chiles and Sesame ,Cilantro-Yogurt Sauce ,Traditional Indian Raita /92/02-09-2021 00:01:32
+asd/7/Cilantro-Tomato Salsa,Cilantro-Tomato Salsa/64/02-09-2021 09:43:35
+asd/8/meniu4(Classic Salad; meniu10(Classic Salad; "Endive ""Spoons"" with Lemon-Herb Goat Cheese ); Braised Orange-Ginger Short Ribs with Dried Apricots; Bacon-Wrapped Trout Stuffed with Balsamic Onion Compote in Rosemary Cream Sauce) ,meniu20(Tamarind-Honey Lamb Kebabs on Mashed Yams; meniu10(Classic Salad; "Endive ""Spoons"" with Lemon-Herb Goat Cheese )) /454/02-09-2021 10:57:05
+asd/9/The Mezcal Sunset ,Lorrie's Mother's Fruitcake ,menu99(Basic Barbecue Rub; Sweet-Potato Pancakes with Caviar; meniu10(Classic Salad; "Endive ""Spoons"" with Lemon-Herb Goat Cheese )) /292/02-09-2021 12:44:05
+asd/10/Beef Stock ,meniu10(Classic Salad; "Endive ""Spoons"" with Lemon-Herb Goat Cheese ) /125/02-09-2021 13:28:46
+asd/11/Shrimp Sates with Spiced Pistachio Chutney ,Beef Stock /104/02-09-2021 13:46:59
+asd/12/Coriander-Herb Spice Rub ,"Endive ""Spoons"" with Lemon-Herb Goat Cheese "/101/02-09-2021 13:52:23
+asd/13/Middle Eastern Nut-Filled Multilayered Pastry (Baklava) ,Sauteed Red Snapper with Creamed Fennel and Onion /20/02-09-2021 14:07:45
+asd/14/Coriander-Herb Spice Rub ,"Endive ""Spoons"" with Lemon-Herb Goat Cheese "/101/02-09-2021 14:35:18

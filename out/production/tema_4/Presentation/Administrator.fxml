@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="520.0" prefWidth="1154.0" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.AdministratorController">
+    <children>
+        <ListView fx:id="productsView" layoutX="582.0" layoutY="4.0" onMouseClicked="#selectRow" prefHeight="512.0" prefWidth="569.0" />
+        <TextField fx:id="name" layoutX="8.0" layoutY="49.0" promptText="Name" />
+        <TextField fx:id="rating" layoutX="8.0" layoutY="74.0" promptText="Rating" />
+        <TextField fx:id="calories" layoutX="8.0" layoutY="97.0" promptText="Calories" />
+        <Button fx:id="listProducts" layoutX="493.0" layoutY="14.0" mnemonicParsing="false" onAction="#listProducts" text="List Products" />
+
+        <Button fx:id="add_updateProduct" layoutX="8.0" layoutY="14.0" mnemonicParsing="false" onAction="#addOrUpdate" text="Add/Update product" />
+      <TextField fx:id="protein" layoutX="8.0" layoutY="122.0" promptText="Protein" />
+      <TextField fx:id="fat" layoutX="8.0" layoutY="147.0" promptText="Fat" />
+      <TextField fx:id="sodium" layoutX="8.0" layoutY="171.0" promptText="Sodium" />
+      <TextField fx:id="price" layoutX="8.0" layoutY="195.0" promptText="Price" />
+      <Button fx:id="deleteProduct" layoutX="144.0" layoutY="14.0" mnemonicParsing="false" onAction="#delete" text="Delete product" />
+      <ListView fx:id="compositeProductView" layoutX="9.0" layoutY="237.0" prefHeight="279.0" prefWidth="569.0" />
+      <Label layoutX="225.0" layoutY="212.0" text="Composite product" />
+      <TextField fx:id="compositeProductName" layoutX="429.0" layoutY="208.0" promptText="Composite product name" />
+      <Button fx:id="addToComposite" layoutX="185.0" layoutY="122.0" mnemonicParsing="false" onAction="#addToComposite" text="Add to composite" />
+      <Button fx:id="addCompositeProducts" layoutX="433.0" layoutY="171.0" mnemonicParsing="false" onAction="#addCompositeProduct" text="Add composite product" />
+      <TextField fx:id="compositeProductRating" layoutX="365.0" layoutY="208.0" prefHeight="25.0" prefWidth="58.0" promptText="Rating" />
+      <Button fx:id="reports" layoutX="328.0" layoutY="14.0" mnemonicParsing="false" onAction="#reports" text="Reports" />
+    </children>
+</AnchorPane>
